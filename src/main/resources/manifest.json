@@ -1,5 +1,5 @@
 {
-  "Group": "HyCustomCommand",
+  "Group": "Hy-CustomCommand",
   "Name": "Hy-CustomCommand",
   "Version": "1.0.0",
   "Description": "Create custom commands via config - info messages and command aliases",
