@@ -1,0 +1,18 @@
+{
+  "Group": "HyCustomCommand",
+  "Name": "Hy-CustomCommand",
+  "Version": "1.0.0",
+  "Description": "Create custom commands via config - info messages and command aliases",
+  "Authors": [
+    {
+      "Name": "benkbb",
+      "Url": "https://github.com/benkbb"
+    }
+  ],
+  "Main": "com.hycustomcommand.HyCustomCommand",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
